@@ -37,7 +37,7 @@ The AirBnB_clone console can be run both interactively and non-interactively. To
 This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/Leah1484/AirBnB_clone.git"`
+* Clone this repository: `https://github.com/beya4/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
